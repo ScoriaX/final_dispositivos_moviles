@@ -2,9 +2,7 @@
 
 ## Descripción
 
-Desarrolla una aplicación móvil completa utilizando Kotlin y Android Studio, que permita a los usuarios gestionar sus finanzas personales de forma sencilla y organizada.
-La app debe incluir navegación estructurada mediante Jetpack Navigation, múltiples pantallas construidas con Jetpack Compose, manejo básico de estado, persistencia local mediante ViewModel + State + SharedPreferences (o DataStore) y componentes visuales interactivos.
-
+Desarrolla una aplicación móvil completa utilizando Flutter, que permita a los usuarios gestionar sus finanzas personales de forma sencilla y organizada.
 El objetivo principal es brindar al usuario herramientas para registrar ingresos y egresos, organizarlos por categorías, establecer metas de ahorro y visualizar estadísticas financieras mediante gráficos.
 
 ## Objetivo General
