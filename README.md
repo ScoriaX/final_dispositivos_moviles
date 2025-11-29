@@ -9,29 +9,26 @@ El objetivo principal es brindar al usuario herramientas para registrar ingresos
 
 ## Objetivo General
 
-Construir una aplicación funcional llamada Bala-Balance, que permita al usuario administrar sus gastos e ingresos mediante diversas pantallas: inicio, estadísticas, metas, categorías, registros y formularios de ingreso/egreso.
+- Construir una aplicación funcional llamada Bala-Balance, que permita al usuario administrar sus gastos e ingresos mediante diversas pantallas: inicio, estadísticas, metas, categorías, registros y formularios de ingreso/egreso.
 
 ## Objetivos Específicos
 
-Registrar transacciones financieras (ingresos y egresos) con monto, categoría y descripción.
+- Registrar transacciones financieras (ingresos y egresos) con monto, categoría y descripción.
 
-Mostrar y administrar categorías personalizadas.
+- Mostrar y administrar categorías personalizadas.
 
-Registrar metas de ahorro y visualizar su progreso.
+- Registrar metas de ahorro y visualizar su progreso.
 
-Mostrar estadísticas mediante gráficos interactivos.
+- Mostrar estadísticas mediante gráficos interactivos.
 
-Mantener los datos durante la sesión mediante persistencia local (sin usar base de datos).
+- Mantener los datos durante la sesión mediante persistencia local (sin usar base de datos).
 
-Aplicar navegación entre pantallas usando NavHost y rutas definidas.
+- Aplicar navegación entre pantallas usando NavHost y rutas definidas.
 
-Seguir buenas prácticas de arquitectura simple (ViewModel + States).
+- Seguir buenas prácticas de arquitectura simple (ViewModel + States).
 
 ## Cómo ejecutar
 
 1. Abrir todos los archivos correspondientes en un proyecto de Flutter.  
 2. Ejecutar el archivo con el botón **Run**
 
-Asegurarse de tener instalado el SDK de Android y las dependencias necesarias.
-
-Ejecutar el proyecto utilizando el botón Run en el emulador o dispositivo físico.
